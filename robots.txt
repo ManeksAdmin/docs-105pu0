@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hs60x1.privatetalks.online/sitemap.xml
